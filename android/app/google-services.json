@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "312547582263",
+    "project_id": "ask-ai-3321c",
+    "storage_bucket": "ask-ai-3321c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312547582263:android:8c10cbacb563ab37563ab2",
+        "android_client_info": {
+          "package_name": "com.example.ai_chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312547582263-ldjctvo1qp4c5o5pm5r6o4fi9m3j0tqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcopEKvX_sEi0KtVeOWshcTooMFKr7L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312547582263-ldjctvo1qp4c5o5pm5r6o4fi9m3j0tqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312547582263-c5orhm0e4gl1op4ce7esebtto55ae31a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.askAi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312547582263:android:d6e2f70b926ad632563ab2",
+        "android_client_info": {
+          "package_name": "com.example.ask_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312547582263-838c1gvnqcdcngqctk56o0h41fdji6ua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ask_ai",
+            "certificate_hash": "276e3c834c6ce32d2c8c8ddcfdbbee25f87452bb"
+          }
+        },
+        {
+          "client_id": "312547582263-ldjctvo1qp4c5o5pm5r6o4fi9m3j0tqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgcopEKvX_sEi0KtVeOWshcTooMFKr7L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312547582263-ldjctvo1qp4c5o5pm5r6o4fi9m3j0tqd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "312547582263-c5orhm0e4gl1op4ce7esebtto55ae31a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.askAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
